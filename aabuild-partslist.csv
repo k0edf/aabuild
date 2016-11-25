@@ -1,0 +1,56 @@
+Type,Part,Description,Value,Digikey Part #
+Connector,CON1,Right angle BNC connector,,A97569-ND
+Connector,J1,DC power jack 2.1mm,,CP-102AH-ND
+Capacitor,C1,"0.1"" spaced dipped mono 10%",0.01,399-4260-ND
+Capacitor,C2,"0.1"" spaced dipped mono 10%",0.1,BC1084CT-ND
+Capacitor,C3,Electrolytic capacitor 25v,1uf,493-10461-1-ND
+Capacitor,C4,Electrolytic capacitor 25v,10uf,P980-ND
+Capacitor,C5,Electrolytic capacitor 25v,10uf,P980-ND
+Capacitor,C6,"0.1"" spaced dipped mono 10%",0.1,BC1084CT-ND
+Capacitor,C7,"0.1"" spaced dipped mono 10%",0.01,399-4260-ND
+Capacitor,C8,"0.1"" spaced dipped mono 10%",0.01,399-4260-ND
+Resistor,R1,1/4 Watt 5%,49.9,49.9XBK-ND
+Resistor,R2,1/4 Watt 5%,10k,10KQBK-ND
+Resistor,R3,1/4 Watt 5%,49.9,49.9XBK-ND
+Resistor,R4,1/4 Watt 5%,49.9,49.9XBK-ND
+Resistor,R5,1/4 Watt 5%,649,649XBK-ND
+Resistor,R6,1/4 Watt 5%,33k,33KQBK-ND
+Resistor,R7,1/4 Watt 5%,10k,10KQBK-ND
+Resistor,R8,1/4 Watt 5%,100k,100KQBK-ND
+Resistor,R9,1/4 Watt 5%,649,649XBK-ND
+Resistor,R10,1/4 Watt 5%,33k,33KQBK-ND
+Resistor,R12,1/4 Watt 5%,100k,100KQBK-ND
+Resistor,R13,1/4 Watt 5%,10,10QBK-ND
+Resistor,R14,1/4 Watt 5%,10k,10KQBK-ND
+Resistor,R15,1/4 Watt 5%,649,649XBK-ND
+Resistor,R16,1/4 Watt 5%,10k,10KQBK-ND
+Resistor,R17,1/4 Watt 5%,10k,10KQBK-ND
+Switch,S1,Tactile pushbutton switch,,450-1650-ND
+Switch,S2,Tactile pushbutton switch,,450-1650-ND
+Switch,S3,Tactile pushbutton switch,,450-1650-ND
+Integrated Circuit,U3,MCP 6002 Dual OpAmp,,MCP6002-E/P-ND
+Integrated Circuit,U4,5v DC / DC converter OKI-78SR-5/1.5-W36H-C,,811-2692-ND
+Mechanical,X1,10 pin female header,,S7043-ND
+Mechanical,X2,10 pin female header,,S7043-ND
+Mechanical,X3,"16 pin male header 0.1"" pitch",,S1011EC-16-ND
+Mechanical,X4,"4-40 Hex standoff 1/4"" long, 3/16"" diameter",,36-1891-ND
+Mechanical,X5,"4-40 Hex standoff 1/4"" long, 3/16"" diameter",,36-1891-ND
+Mechanical,X6,"4-40 Hex standoff 1/4"" long, 3/16"" diameter",,36-1891-ND
+Mechanical,X7,"4-40 Hex standoff 1/4"" long, 3/16"" diameter",,36-1891-ND
+Mechanical,X8,"4-40 Hex standoff 1/4"" long, 3/16"" diameter",,36-1891-ND
+Mechanical,X9,"4-40 Hex standoff 1/4"" long, 3/16"" diameter",,36-1891-ND
+Mechanical,X10,"4-40 Hex standoff 1/4"" long, 3/16"" diameter",,36-1891-ND
+Mechanical,X11,"4-40 Hex standoff 1/4"" long, 3/16"" diameter",,36-1891-ND
+Mechanical,X12,"4-40 1/4"" pan head philips screw",,36-9900-ND
+Mechanical,X13,"4-40 1/4"" pan head philips screw",,36-9900-ND
+Mechanical,X14,"4-40 1/4"" pan head philips screw",,36-9900-ND
+Mechanical,X15,"4-40 1/4"" pan head philips screw",,36-9900-ND
+Mechanical,X16,4-40 hex nut,,36-4694-ND
+Mechanical,X17,4-40 hex nut,,36-4694-ND
+Mechanical,X18,4-40 hex nut,,36-4694-ND
+Mechanical,X19,4-40 hex nut,,36-4694-ND
+Mechanical,X20,"4-40 1/2"" pan head philips screw",,36-9902-ND
+Mechanical,X21,"4-40 1/2"" pan head philips screw",,36-9902-ND
+Mechanical,X22,"4-40 1/2"" pan head philips screw",,36-9902-ND
+Mechanical,X23,"4-40 1/2"" pan head philips screw",,36-9902-ND
+Mechanical,X24,8 pin DIP socket,,AE9986-ND
